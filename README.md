@@ -1,2 +1,1 @@
-# calci
-simple interest  calculator 
+# coding-project-template
